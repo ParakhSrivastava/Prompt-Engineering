@@ -7,3 +7,10 @@
 1. Define the task: Identify the specific goal or task for the prompt
 2. Clear instructions: guidelines for gpt to follow
 3. Context: Offer some examples, references, data, etc.
+```
+Subject: [Subject]
+Task: [Task]
+Instructions: [Instructions]
+Context: [Context/Data]
+```
+
