@@ -48,3 +48,6 @@ Approach
 1. Ask GPT to simulate the expertise of a specific professional
 2. Act as ...
 
+### Follow-up questions
+1. "... If you need more information, ask me follow-up questions."
+
