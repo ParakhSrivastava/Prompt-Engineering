@@ -14,3 +14,37 @@ Instructions: [Instructions]
 Context: [Context/Data]
 ```
 
+### Custom instructions
+1. Works as a pre-prompts
+2. Allows --> personal preferences, language, structure, output preferences
+3. What you want GPT to know about you:
+```
+Job
+Responsibility
+Skills
+Challenges
+Projects
+Lingo
+Goals
+Communication
+```
+4. How would you like GPT to answer:
+```
+Style
+Depth
+Sources
+Examples
+Clarity
+Links
+Teamwork
+Approach
+```
+
+### Prompt priming
+1. Guide GPT with clear tasks and context for better results
+2. Similar to above template, we need to follow
+
+### Act as
+1. Ask GPT to simulate the expertise of a specific professional
+2. Act as ...
+
