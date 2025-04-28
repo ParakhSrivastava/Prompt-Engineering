@@ -1,4 +1,4 @@
-### Githhub Copilot
+### Github Copilot
 1. "Next edit suggestions" setting can be useful
 2. `.github/copilot-instructions.md` can be useful
 3. `Temporal context` feature can be made enabled
